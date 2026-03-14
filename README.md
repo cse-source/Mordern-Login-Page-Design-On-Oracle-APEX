@@ -43,3 +43,7 @@ If you'd like, I can also help you create :
 * Database Design Description
 * Use Case Diagram & Design Explanation (great for GitHub + reports).
 
+## 🎥 Demo Video
+
+https://github.com/yourusername/tech-oracle/blob/main/docs/demo.mp4
+
