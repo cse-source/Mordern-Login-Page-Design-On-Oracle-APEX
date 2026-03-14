@@ -48,5 +48,5 @@ If you'd like, I can also help you create :
 https://github.com/yourusername/tech-oracle/blob/main/docs/demo.mp4
 
 ## 📁 Deployment Outlook
-<img width="100%" height="350px" alt="image" src="https://github.com/cse-source/Get-Server-Device-Information-On-Oracle-APEX/blob/main/Server%20%26%20Device%20Informations.jpeg" />
+<img width="100%" height="350px" alt="image" src="https://github.com/cse-source/Mordern-Login-Page-Design-On-Oracle-APEX/blob/main/Screenshot_1.png" />
 
