@@ -44,8 +44,7 @@ If you'd like, I can also help you create :
 * Use Case Diagram & Design Explanation (great for GitHub + reports).
 
 ## 🎥 Demo Video
-
-https://github.com/yourusername/tech-oracle/blob/main/docs/demo.mp4
+https://github.com/cse-source/Mordern-Login-Page-Design-On-Oracle-APEX/blob/main/Video%20Preview.gif
 
 ## 📁 Deployment Outlook
 <img width="100%" height="350px" alt="image" src="https://github.com/cse-source/Mordern-Login-Page-Design-On-Oracle-APEX/blob/main/Screenshot_1.png" />
